@@ -14,3 +14,9 @@ This is my first time ever writing with a Kicad spent most of my time creating a
 
   
 
+## 11/8/2025 - Made a v2 of pcb bc im a bum and broke it lmao + KLE  
+
+Okay, so I redid the PCB, and then also made the keyboard layout for my HackPad. Before I was following the tutorial from Highway, and now that the tutorial is in Blueprint, there were some small changes. I also implemented those just to make sure that this goes well :)![Screenshot 2025-11-08 at 10.23.07 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--ccbe9cfc2a696661aa3f72a8f7ab75221dd048c7/Screenshot%202025-11-08%20at%2010.23.07%E2%80%AFPM.png)![Screenshot 2025-11-08 at 10.23.20 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY1MywicHVyIjoiYmxvYl9pZCJ9fQ==--0411db3cb491a8cf9444d78454275942b6a41768/Screenshot%202025-11-08%20at%2010.23.20%E2%80%AFPM.png)
+
+  
+
