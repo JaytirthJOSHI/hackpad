@@ -20,7 +20,7 @@ Okay, so I redid the PCB, and then also made the keyboard layout for my HackPad.
 
   
 
-## 11/9/2025 - Made a CAD design and set it all up  
+## 11/9/2025 1:39 PM - Made a CAD design and set it all up  
 
 I made a CAD illustration on my Fusion 360, and then, you know, make sure that the PCB was right because it apparently was off a little bit. So I had to resize it in the PCB so that it fit my CAD illustration size. And now it's all set up. I'm attaching screenshots of the top and the case.
 
@@ -28,4 +28,15 @@ I made a CAD illustration on my Fusion 360, and then, you know, make sure that t
 ![Screenshot 2025-11-09 at 1.37.04 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--34d43e03d28cc02c733573e5b829a159a05fdf13/Screenshot%202025-11-09%20at%201.37.04%E2%80%AFPM.png)
 ![Screenshot 2025-11-09 at 1.37.17 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--ba30d910bd7dbac824dd5c64cff1834c40a7e92f/Screenshot%202025-11-09%20at%201.37.17%E2%80%AFPM.png)
   
+
+## 11/9/2025 1:43 PM - added better spaceing for xiao  
+
+Well, before my last Blueprint journal, and now it has been like less than two minutes, but I didn't think through it my case
+now its fixed 
+
+Basically, I didn't have the right amount of space being made for the Xiao, and now I do. 
+![Screenshot 2025-11-09 at 1.41.35 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--5782868f6d8efc86f7c332773ee6d47210f878b0/Screenshot%202025-11-09%20at%201.41.35%E2%80%AFPM.png)
+
+
+im going to break the hours lol  
 
