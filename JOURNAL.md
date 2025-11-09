@@ -20,3 +20,12 @@ Okay, so I redid the PCB, and then also made the keyboard layout for my HackPad.
 
   
 
+## 11/9/2025 - Made a CAD design and set it all up  
+
+I made a CAD illustration on my Fusion 360, and then, you know, make sure that the PCB was right because it apparently was off a little bit. So I had to resize it in the PCB so that it fit my CAD illustration size. And now it's all set up. I'm attaching screenshots of the top and the case.
+
+
+![Screenshot 2025-11-09 at 1.37.04 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--34d43e03d28cc02c733573e5b829a159a05fdf13/Screenshot%202025-11-09%20at%201.37.04%E2%80%AFPM.png)
+![Screenshot 2025-11-09 at 1.37.17 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--ba30d910bd7dbac824dd5c64cff1834c40a7e92f/Screenshot%202025-11-09%20at%201.37.17%E2%80%AFPM.png)
+  
+
